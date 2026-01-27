@@ -1,0 +1,11 @@
+*.asv
+*.mex*
+*.fig
+*.mat
+*.slxc
+slprj/
+simCache/
+*.m~
+.DS_Store
+html/
+_Harness*
